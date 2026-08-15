@@ -1,0 +1,7 @@
+rule,severity,table,message
+DQ-13,WARNING,analysis_clean,5 companies have less than 5 years of data
+DQ-13,WARNING,balancesheet_clean,5 companies have less than 5 years of data
+DQ-13,WARNING,cashflow_clean,5 companies have less than 5 years of data
+DQ-13,WARNING,dividends_clean,5 companies have less than 5 years of data
+DQ-13,WARNING,financial_ratios_clean,5 companies have less than 5 years of data
+DQ-13,WARNING,profitandloss_clean,5 companies have less than 5 years of data

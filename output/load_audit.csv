@@ -1,0 +1,5 @@
+table,source_rows,loaded_rows,rejected_rows,status
+companies,5,5,0,SUCCESS
+profitandloss,10,10,0,SUCCESS
+balancesheet,5,5,0,SUCCESS
+cashflow,5,0,5,ERROR: Execution failed
